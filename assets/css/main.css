@@ -1334,8 +1334,9 @@ input, select, textarea {
 				display: none;
 			}
 
-			.poptrox-popup .caption {
-				display: none !important;
+			.poptrox-popup .caption p {
+				font-size:0.5em;
+				/*display: none !important;*/
 			}
 
 			.poptrox-popup .closer,
