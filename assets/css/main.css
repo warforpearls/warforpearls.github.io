@@ -1299,12 +1299,12 @@ input, select, textarea {
 			}
 
 			#fork5 {
-				margin: 0 0 18em 0;
+				margin: 0 0 12.5em 0;
 			}
 
 			#afterfork5 {
-				font-size: 1em;
-				margin: 0 0 -12em 0;
+				font-size: 0.65em;
+				margin: 0 0 1em 0;
 			}
 
 			#fork6 {
