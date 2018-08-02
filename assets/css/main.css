@@ -1282,10 +1282,56 @@ input, select, textarea {
 
 			#afterfork2 {
 				font-size: 0.58em;
-				margin: 0 0 0.5em 0;
+				margin: 0 0 1em 0;
 			}
 
+			#fork3 {
+				margin: 0 0 10em 0;
+			}
 
+			#afterfork3 {
+				font-size: 0.62em;
+				margin: 0 0 1em 0;
+			}
+
+			#fork4 {
+				margin: 0 0 7em 0;
+			}
+
+			#fork5 {
+				margin: 0 0 12.5em 0;
+			}
+
+			#afterfork5 {
+				font-size: 0.65em;
+				margin: 0 0 1em 0;
+			}
+
+			#fork6 {
+				margin: 0 0 10.5em 0;
+			}
+
+			#fork7 {
+				margin: 0 0 10.5em 0;
+			}
+
+			#fork8 {
+				margin: 0 0 1em 0;
+			}
+
+			#afterfork8 {
+				font-size: 0.53em;
+				margin: 0 0 -0.5em 0;
+			}
+
+			#fork9 {
+				margin: 0 0 11.8em 0;
+			}
+
+			#afterfork9 {
+				font-size: 0.62em;
+				margin: 0 0 1em 0;
+			}
 		}
 
 			.poptrox-popup .caption h2, .poptrox-popup .caption h3, .poptrox-popup .caption h4, .poptrox-popup .caption h5, .poptrox-popup .caption h6 {
