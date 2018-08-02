@@ -282,6 +282,7 @@ input, select, textarea {
 
 		h2 {
 			font-size: 1em;
+
 		}
 
 		h3 {
@@ -1263,9 +1264,13 @@ input, select, textarea {
 			z-index: 2;
 		}
 
+
+
 			.poptrox-popup .caption h2, .poptrox-popup .caption h3, .poptrox-popup .caption h4, .poptrox-popup .caption h5, .poptrox-popup .caption h6 {
 				margin: 0 0 0.5em 0;
 			}
+
+
 
 			.poptrox-popup .caption p {
 				color: #ffffff;
@@ -1334,8 +1339,9 @@ input, select, textarea {
 				display: none;
 			}
 
-			.poptrox-popup .caption p {
+			.poptrox-popup .caption p {		
 				font-size:0.5em;
+
 				/*display: none !important;*/
 			}
 
