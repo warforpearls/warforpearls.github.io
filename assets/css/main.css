@@ -835,6 +835,8 @@ input, select, textarea {
 		padding-left: 0;
 	}
 
+
+
 		ul.actions li {
 			padding: 0 0 0 1em;
 			vertical-align: middle;
@@ -1167,6 +1169,18 @@ input, select, textarea {
 		}
 
 /* Poptrox Popup */
+	
+	@media screen and (max-width: 736px) {
+
+	.poptrox-popup {
+
+		vertical-align: top !important;
+
+
+	}
+
+}
+
 
 	.poptrox-overlay {
 		-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
@@ -1268,74 +1282,95 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			#fork1 {
-				margin: 0 0 8em 0;
+				text-align:center;
+				margin: 0 0 4em 0;
 			}
 
 			#afterfork1 {
-				font-size: 0.53em;
-				margin: 0 0 0.1em 0;
+				margin: 0 0 -19em 0;
 			}
 
 			#fork2 {
-				margin: 0 0 12em 0;
+				text-align:center;
+				margin: 0 0 5em 0;
 			}
 
 			#afterfork2 {
-				font-size: 0.58em;
-				margin: 0 0 1em 0;
+				
+				margin: 0 0 -14em 0;
 			}
 
 			#fork3 {
-				margin: 0 0 11em 0;
+				text-align:center;
+				margin: 0 0 4em 0;
 			}
 
 			#afterfork3 {
-				font-size: 0.62em;
-				margin: 0 0 1em 0;
+				
+				margin: 0 0 -15em 0;
 			}
 
 			#fork4 {
-				margin: 0 0 7em 0;
+				text-align:center;
+				margin: 0 0 3em 0;
+			}
+
+			#afterfork4 {
+				margin: 0 0 -22em 0;
 			}
 
 			#fork5 {
-				margin: 0 0 12.5em 0;
+				text-align:center;
+				margin: 0 0 4em 0;
 			}
 
 			#afterfork5 {
-				font-size: 0.65em;
-				margin: 0 0 1em 0;
+
+				margin: 0 0 -12em 0;
 			}
 
 			#fork6 {
-				margin: 0 0 10.5em 0;
+				text-align: center;
+				margin: 0 0 4em 0;
+			}
+
+			#afterfork6 {
+				margin: 0 0 -20em 0;
 			}
 
 			#fork7 {
-				margin: 0 0 10.5em 0;
+				text-align:center;
+				margin: 0 0 4em 0;
+			}
+
+			#afterfork7 {
+				margin: 0 0 -18em 0;
 			}
 
 			#fork8 {
-				margin: 0 0 1em 0;
+				text-align:center;
+				margin: 0 0 2em 0;
 			}
 
 			#afterfork8 {
-				font-size: 0.53em;
-				margin: 0 0 -0.5em 0;
+
+				margin: 0 0 -24em 0;
 			}
 
 			#fork9 {
-				margin: 0 0 11.8em 0;
+				text-align:center;
+				margin: 0 0 4em 0;
 			}
 
 			#afterfork9 {
-				font-size: 0.62em;
-				margin: 0 0 1em 0;
+
+				margin: 0 0 -12em 0;
 			}
 		}
 
 			.poptrox-popup .caption h2, .poptrox-popup .caption h3, .poptrox-popup .caption h4, .poptrox-popup .caption h5, .poptrox-popup .caption h6 {
-				margin: 0 0 0.5em 0;
+				margin: 0 0 1em 0;
+				text-align:center;
 			}
 
 
@@ -1410,7 +1445,7 @@ input, select, textarea {
 			}
 
 			.poptrox-popup .caption p {		
-				font-size:0.5em;
+				font-size:1em;
 
 				/*display: none !important;*/
 			}
@@ -1703,6 +1738,7 @@ input, select, textarea {
 				height: 100%;
 				left: 0;
 				position: absolute;
+
 				top: 0;
 				width: 100%;
 			}
