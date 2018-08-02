@@ -1265,10 +1265,34 @@ input, select, textarea {
 		}
 
 
+		@media screen and (max-width: 736px) {
+
+			#fork1 {
+				margin: 0 0 8em 0;
+			}
+
+			#afterfork1 {
+				font-size: 0.53em;
+				margin: 0 0 0.1em 0;
+			}
+
+			#fork2 {
+				margin: 0 0 12em 0;
+			}
+
+			#afterfork2 {
+				font-size: 0.58em;
+				margin: 0 0 0.5em 0;
+			}
+
+
+		}
 
 			.poptrox-popup .caption h2, .poptrox-popup .caption h3, .poptrox-popup .caption h4, .poptrox-popup .caption h5, .poptrox-popup .caption h6 {
 				margin: 0 0 0.5em 0;
 			}
+
+
 
 
 
