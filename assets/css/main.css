@@ -1283,68 +1283,68 @@ input, select, textarea {
 
 			#fork1 {
 				text-align:center;
-				margin: 0 0 4em 0;
+				margin: 0 0 1em 0;
 			}
 
 			#afterfork1 {
-				margin: 0 0 -19em 0;
+				margin: 0 0 -15em 0;
 			}
 
 			#fork2 {
 				text-align:center;
-				margin: 0 0 3em 0;
+				margin: 0 0 1em 0;
 			}
 
 			#afterfork2 {
 				
-				margin: 0 0 -15em 0;
+				margin: 0 0 -12em 0;
 			}
 
 			#fork3 {
 				text-align:center;
-				margin: 0 0 3em 0;
+				margin: 0 0 1em 0;
 			}
 
 			#afterfork3 {
 				
-				margin: 0 0 -18em 0;
+				margin: 0 0 -14em 0;
 			}
 
 			#fork4 {
 				text-align:center;
-				margin: 0 0 2em 0;
+				margin: 0 0 1em 0;
 			}
 
 			#afterfork4 {
-				margin: 0 0 -20em 0;
+				margin: 0 0 -19em 0;
 			}
 
 			#fork5 {
 				text-align:center;
-				margin: 0 0 4em 0;
+				margin: 0 0 1em 0;
 			}
 
 			#afterfork5 {
 
-				margin: 0 0 -14em 0;
+				margin: 0 0 -9em 0;
 			}
 
 			#fork6 {
 				text-align: center;
-				margin: 0 0 4em 0;
+				margin: 0 0 1em 0;
 			}
 
 			#afterfork6 {
-				margin: 0 0 -22em 0;
+				margin: 0 0 -18.5em 0;
 			}
 
 			#fork7 {
 				text-align:center;
-				margin: 0 0 4em 0;
+				margin: 0 0 1em 0;
 			}
 
 			#afterfork7 {
-				margin: 0 0 -20em 0;
+				margin: 0 0 -17em 0;
 			}
 
 			#fork8 {
@@ -1354,17 +1354,17 @@ input, select, textarea {
 
 			#afterfork8 {
 
-				margin: 0 0 -18em 0;
+				margin: 0 0 -14em 0;
 			}
 
 			#fork9 {
 				text-align:center;
-				margin: 0 0 3em 0;
+				margin: 0 0 1em 0;
 			}
 
 			#afterfork9 {
 
-				margin: 0 0 -15em 0;
+				margin: 0 0 -10.5em 0;
 			}
 		}
 
@@ -1437,6 +1437,7 @@ input, select, textarea {
 			}
 
 		}
+
 
 		@media screen and (max-width: 736px) {
 
